@@ -1,0 +1,16 @@
+
+<div class="header-selectors-wrapper">
+            <ul class="language-list">
+                    <li>
+                        <a href="/changelanguage/1?returnUrl=%2F" title="English">
+                            <img title="English" alt="English" class="selected" src="/Content/Images/flags/gb.png ">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/changelanguage/2?returnUrl=%2F" title="العربية">
+                            <img title="العربية" alt="العربية" src="/Content/Images/flags/ps.png ">
+                        </a>
+                    </li>
+            </ul>
+
+    </div>
